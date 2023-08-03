@@ -1,0 +1,22 @@
+{
+  "id": "stream-util",
+  "title": "Stream Util",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "scripts/streamUtil.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "styles": [
+    "styles/stream-util.css"
+  ]
+}
